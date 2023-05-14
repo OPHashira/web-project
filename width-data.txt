@@ -1,0 +1,15 @@
+phone 6'7 inch - width = 7.5cm ~ 283.46px
+
+
+
+screen~~
+xx-large ~ 2160
+large ~ 1080px
+~1050?
+~1024
+~900
+~864
+medium ~ 800px
+~768
+~720
+small ~ 600px
